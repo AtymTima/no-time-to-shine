@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1_Scenes/1_Menus/Main Menu.unity
+    guid: 9880afb6c451b41f0b35ecb11ff7a530
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 0. Tutorial/Level 0.1 - Let It Shine.unity
+    guid: 3f9b4215b456f4aa88e089ce4a1778b0
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 0. Tutorial/Level 0.2 - Cake is Lava.unity
+    guid: 6dae9b9b731984d4aa32c66edf56130d
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 0. Tutorial/Level 0.3 - X Time To
+      Shine.unity
+    guid: 71faa05fec8104d2e9d2dc2336a64aad
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 0. Tutorial/Level 0.4 - No More Chains
+      On Me.unity
+    guid: 6b74f1f65446242c8a64d2d30d2e2238
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.0 - Learn
+      The Rules.unity
+    guid: 690937ef0a1424d01b14fa551e1952ee
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.1 - Make
+      The Rules.unity
+    guid: 6815d8c20b5d74c348ce80c6612eb8c3
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.2 - Break
+      The Rules.unity
+    guid: eca84103b8f0645788e116711d82b2d5
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.3 - No
+      Way Back.unity
+    guid: 2412735a959dc46a680bcea26ba17cf4
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.4 - Ice
+      Melts Faster.unity
+    guid: 15327717e1217420c9caaf4bfc87020f
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.5 - Chains,
+      huh.unity
+    guid: 7650087232b634be39d9dfd06f74b356
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.6 - Cake
+      Climber.unity
+    guid: d56077e30fd4f41e8b16aa5f2b00e26e
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.7 - My
+      Lonely Friend.unity
+    guid: b6c499dd207bc48cebe463af838994e4
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.8 - Keep
+      The Light.unity
+    guid: c59d0778aae1245e08bc659d4eaa1bf6
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 1. Falling Platforms/Level 1.9 - Last
+      Second.unity
+    guid: 1201b4f33808340b0a7a193053e0202f
+  - enabled: 1
+    path: Assets/1_Scenes/2_Game Levels/Levels 2. Rising Platforms/Level 2.0 - Brightburn.unity
+    guid: 03b004f9bcdb24601af278a3b54bb496
+  - enabled: 1
+    path: Assets/1_Scenes/1_Menus/Win Screen.unity
+    guid: 301c79e4445674155b464d9f30205d6d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

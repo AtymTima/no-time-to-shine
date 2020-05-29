@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edf7b2775bce443c2b5dc71869db0bf4, type: 3}
+  m_Name: Torch Keeper
+  m_EditorClassIdentifier: 
+  roundingSpeed: 250
+  stoppingDistanceMin: 3
+  stoppingDistanceMax: 5
+  relocateSpeed: 15
+  rotationMultiplier: 10
+  bottomBoundary: -4.8
+  topBoundary: 8
+  timeBeforeRelocation: 1
+  scaleMultiplier: 2.5

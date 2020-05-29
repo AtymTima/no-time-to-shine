@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c311ffaa44fe64366bd8b0d2d96baa16, type: 3}
+  m_Name: AudioManager
+  m_EditorClassIdentifier: 
+  sounds:
+  - audioClip: {fileID: 8300000, guid: ae7ffe8b53c2544f9801d62746cbdcc0, type: 3}
+    audioVolume: 0.25
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 06088d08b25dc4fa7be1dae6d2f48709, type: 3}
+    audioVolume: 0.33
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 261c3509e82a6427d86e32a7537cdecb, type: 3}
+    audioVolume: 0.45
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 375bb9b6b99aa4b8a906e6707978a4ae, type: 3}
+    audioVolume: 0.15
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 3e97689c607cd45ad9a78ef65c25ce3b, type: 3}
+    audioVolume: 0.3
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 84970c6be52644f9f8dce8791e1354c9, type: 3}
+    audioVolume: 0.25
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 4ef7923a4820c4a53b2d9e0cd51cc98e, type: 3}
+    audioVolume: 0.2
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 39f4141974b6b4cb2971860c092ef2c6, type: 3}
+    audioVolume: 0.3
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 015b2e36a46da4a7fb6a3b500a2f5b99, type: 3}
+    audioVolume: 1
+    isLoop: 1
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 4b490c03c2221488a91f8ae7de27ad5d, type: 3}
+    audioVolume: 0.4
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: d78e8621aa08f494786a994d9411c0ae, type: 3}
+    audioVolume: 0.4
+    isLoop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 1a2d1cc1dcaa941068792bcb6d8f77d1, type: 3}
+    audioVolume: 0.4
+    isLoop: 1
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: c9e7932fe5a0c42b1b74e27415e484d7, type: 3}
+    audioVolume: 0.4
+    isLoop: 1
+    audioSource: {fileID: 0}
